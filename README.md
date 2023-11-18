@@ -1,5 +1,13 @@
-# 💫 About Me:
-Ahmed Sayed Node.js Backend Developer
+<h1 align="center">Hi 👋, I'm Ahmed Sayed</h1>
+<h3 align="center">Node.js Backend Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unrealahmed&label=Profile%20views&color=0e75b6&style=flat" alt="unrealahmed" /> </p>
+
+- 🔭 I’m currently working on **School Mangement System-API**
+
+- 🌱 I’m currently learning **DataStructure & Algorithms**
+
+- 📫 How to reach me **therealahme@gmail.com**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/elm4mohbds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elm4mohbds) 
