@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **School Mangement System-API**
 
-- 🌱 I’m currently learning **DataStructure & Algorithms**
+- 🌱 I’m currently learning **DataStructure & Algorithms & Unit Testing**
 
 - 📫 How to reach me **therealahme@gmail.com**
 
