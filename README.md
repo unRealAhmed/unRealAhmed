@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unrealahmed&label=Profile%20views&color=0e75b6&style=flat" alt="unrealahmed" /> </p>
 
-- 🔭 I’m currently working on **Hosbital Mangement System-API**
+- 🔭 I’m currently working on **MERN E-Commerce Project**
 
-- 🌱 I’m currently learning **DataStructure & Algorithms & Unit Testing**
+- 🌱 I’m currently learning **Nest.js & TypeScript & Clean Code**
 
 - 📫 How to reach me **therealahme@gmail.com**
 
