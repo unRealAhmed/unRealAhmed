@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sayed</h1>
-<h3 align="center">Node.js Backend Developer</h3>
+<h3 align="center">Node.js Backend Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unrealahmed&label=Profile%20views&color=0e75b6&style=flat" alt="unrealahmed" /> </p>
 
-- 🔭 I’m currently working on **MERN E-Commerce Project**
+- 🔭 I’m currently working At **Mahaseel**
 
-- 🌱 I’m currently learning **Nest.js & TypeScript & Clean Code**
+- 🌱 I’m currently learning **Kubernetes & Data Structure & Algorthims**
 
-- 📫 How to reach me **therealahme@gmail.com**
+- 📫 How to reach me **ahmed.sayed.connect@gmail.com**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/elm4mohbds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmedsayed1120) 
