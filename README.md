@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **Frontend Development & Some Devops Skills**
 
-- 📝 I regularly active on linkedin [https://www.linkedin.com/in/ahmedsayed1120/](https://www.linkedin.com/in/ahmedsayed1120/)
-
 - 📫 How to reach me **ahmed.sayed.connect@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c9Je4ngjPT4FBc2Ss5Wji-CCDrZEah3f/view?usp=sharing](https://drive.google.com/file/d/1c9Je4ngjPT4FBc2Ss5Wji-CCDrZEah3f/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
