@@ -24,15 +24,13 @@
 <!-- Intro start -->
 <div style="display: flex; align-items: center;">
   <div>
+    <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" style="margin-left: 20px;">
     - 🔭 I’m currently working as a backend developer at **Mahaseel Masr**
 
     - 💬 Ask me about **Node.js, Nest.js, MongoDB, Express.js**
 
     - 📫 Feel free to reach me out **ahmed.sayed.connect@gmail.com**
 
-  </div>
-  <div>
-    <img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" alt="coding" style="width: 200px; margin-left: 20px;">
   </div>
 </div>
 <!-- Intro end -->
@@ -48,7 +46,7 @@
 <!-- tech stack icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,docker,postgres,mongodb,nodejs,nestjs,express,swagger,typescript,javascript,html,css,python,github,linux,vscode,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,azure,docker,postgres,mongodb,nodejs,nestjs,express,typescript,javascript,html,css,github,linux,vscode,postman,&perline=14" />
   </a>
 </p>
 
