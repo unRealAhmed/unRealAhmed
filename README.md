@@ -25,9 +25,10 @@
 <div style="display: flex; align-items: center;">
   <div>
     <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" style="margin-left: 20px;">
-    - 🔭 I’m currently working as a backend developer at **Mahaseel Masr**
 
     - 💬 Ask me about **Node.js, Nest.js, MongoDB, Express.js**
+
+    - 🔭 I’m currently working as a backend developer at **Mahaseel Masr**
 
     - 📫 Feel free to reach me out **ahmed.sayed.connect@gmail.com**
 
