@@ -68,6 +68,7 @@
     <a href="https://codeforces.com/profile/unRealAhmed" style="display: inline-block; width: 150px; height: 40px;"><img src="https://img.shields.io/badge/Codeforces-unRealAhmed-1e90ff?style=for-the-badge&logo=codeforces" alt="Codeforces"></a>
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=unRealAhmed&color=blue&style=flat-square)
 <!-- horizontal divider (gradient) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
